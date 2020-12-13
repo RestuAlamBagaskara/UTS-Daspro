@@ -35,7 +35,7 @@ while x!=0:
     print("1. Kiloan")
     print("2. Satuan")
     print("3. Keluar")
-    pilihan = int(input("Masukkanb Pilihan 1/2 :"))
+    pilihan = int(input("Masukkan Pilihan 1/2 :"))
     if pilihan == 1:
         Menu = {'Jenis':['','Cuci Komplet Reguler','Cuci Komplet Kilat','Cuci Komplet Express','Cuci Kering Reguler','Cuci Kering Kilat',
         'Cuci Kering Express','Setrika Reguler','Setrika Kliat','Setrika Express'],'Lama Pengerjaan':['','2-3 hari','1 hari','8 jam','2-3 hari',
